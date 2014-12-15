@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">FaceDetectionExample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_face_detection_example">FaceDetectionExample</string>
+	<string name="app_info">Click on the \'Take Picture\' to take a picture using Camera and detect the face(s) in the picture taken.</string>
+	<string name="take_picture">Take Picture</string>
+	<string name="detect_face">Detect Face</string>
+</resources>
